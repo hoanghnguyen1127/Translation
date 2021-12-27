@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Translation</string>
+    <string name="greeting">Xin chào</string>
+    <string name="howareyou">Bạn khỏe không ?</string>
+</resources>
