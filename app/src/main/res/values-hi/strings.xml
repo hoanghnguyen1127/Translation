@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Translation</string>
+    <string name="ok">OK</string>
+    <string name="greeting">नमस्ते</string>
+    <string name="howareyou">आप कैसे हैं ?</string>
+</resources>

@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Translation</string>
+    <string name="ok">OK</string>
+    <string name="greeting">你好</string>
+    <string name="howareyou">你好吗？</string>
+</resources>
