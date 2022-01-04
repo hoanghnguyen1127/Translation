@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Translation</string>
+<<<<<<< HEAD
     <string name="ok">OK</string>
+=======
+>>>>>>> refs/remotes/origin/main
     <string name="greeting">Hola</string>
     <string name="howareyou">Cómo estás ?</string>
 </resources>
